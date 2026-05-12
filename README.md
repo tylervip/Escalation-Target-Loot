@@ -10,7 +10,7 @@ Daily The Division 2 Escalation scraper that pulls structured data from the even
 	- Escalation Target Loot table
 	- Escalation Requisition Vendor table
 - Sends a structured Discord embed to your webhook.
-- Runs automatically every day at 17:05 UTC via GitHub Actions.
+- Runs automatically every day at 08:00 GMT (08:00 UTC) via GitHub Actions.
 - Supports manual runs from GitHub Actions.
 
 ## Files
